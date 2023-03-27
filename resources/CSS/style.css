@@ -1,3 +1,7 @@
+/*
+ *   Copyright (c) 2023 
+ *   All rights reserved.
+ */
 body {
     background-color: #000000;
     text-align: center;
@@ -8,4 +12,9 @@ body {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
+}
+
+.link-cta {
+    color: aquamarine;
+    font-size: 16px;
 }
